@@ -1,0 +1,1 @@
+print("Halo Tim AI! Project sudah dimulai.")
